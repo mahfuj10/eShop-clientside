@@ -1,0 +1,15 @@
+.trending-product:hover {
+  box-shadow: 0 0.1rem 0.4rem rgba(0, 0, 0, 0.15) !important;
+  transition: 0.2s;
+}
+
+.cart-button {
+  display: none;
+  transition: 0.4s;
+}
+.trending-product:hover .cart-button {
+  position: absolute;
+  display: block !important;
+  transition: 0.2s;
+  width: 290px;
+}

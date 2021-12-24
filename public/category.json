@@ -1,0 +1,62 @@
+[
+    {
+        "image": "https://i.ibb.co/3z3sJG8/product-tivi-1-removebg-preview.png",
+        "name": "Television",
+        "id": "1"
+    },
+    {
+        "image": "https://i.ibb.co/JBKRf2P/51dppb-Ky-F-L-SX466-removebg-preview.png",
+        "name": "Air Condition",
+        "id": "2"
+    },
+    {
+        "image": "https://i.ibb.co/CPGnXPV/71l-Ms-X48j-DS-AC-UL320-removebg-preview.png",
+        "name": "Shoes",
+        "id": "3"
+    },
+    {
+        "image": "https://i.ibb.co/8bmgGmK/50-home-default-removebg-preview.png",
+        "name": "LED lamp",
+        "id": "4"
+    },
+    {
+        "image": "https://i.ibb.co/PCTNMPY/20-removebg-preview.png",
+        "name": "Clothes",
+        "id": "5"
+    },
+    {
+        "image": "https://i.ibb.co/DbLDdxK/no-image-removebg-preview.png",
+        "name": "Smart Phone",
+        "id": "6"
+    },
+    {
+        "image": "https://i.ibb.co/D47GNyp/product-laptop-2-9fd4acb2-8ad0-4a73-9461-f3f76ddbe8c5-360x-removebg-preview.png",
+        "name": "Laptops",
+        "id": "111"
+    },
+    {
+        "image": "https://i.ibb.co/T4nm7LL/samsung-fridge-removebg-preview.png",
+        "name": "Fredge",
+        "id": "7"
+    },
+    {
+        "image": "https://i.ibb.co/DpqnWSh/photo-1617043786394-f977fa12eddf-removebg-preview.png",
+        "name": "Watch",
+        "id": "8"
+    },
+    {
+        "image": "https://i.ibb.co/FVjc678/images-removebg-preview-1.png",
+        "name": "Micro Oven",
+        "id": "9"
+    },
+    {
+        "image": "https://i.ibb.co/rGsjYf1/0003656-samsung-top-loading-washing-machine-wa90j5730sstl-9-kg-removebg-preview.png",
+        "name": "Washin Machine",
+        "id": "10"
+    },
+    {
+        "image": "https://i.ibb.co/bbPSvND/images-1-removebg-preview.png",
+        "name": "Bags",
+        "id": "13"
+    }
+]

@@ -1,0 +1,131 @@
+.loginBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F6F9FC;
+    transition: 0.5s;
+    width: 100%;
+height: 92vh;
+margin-top: -100px;
+}
+
+/* .body.active{
+} */
+    /* background-color: rgb(180, 175, 175) !important; */
+
+
+.loginBox button{
+    background-color: #fff;
+    padding: 6px 25px;
+    position: absolute;
+    margin-top: 90px;
+    border: 1px solid #232F3E;
+}
+.form-container{
+    position: absolute;
+    top: 40px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 420px;
+    background: #c5d4e7;
+    box-shadow: 0 5px 45px rgba(0,0,0,0.15);
+}
+
+.box{
+    position: relative;
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.box h3{
+    font-size: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #232F3E;
+}
+
+#formBox{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    background: #fff;
+    z-index: 2;
+    box-shadow: 0 5px 45px rgba(0,0,0,0.25);
+    transition: 0.35s ease-in-out;
+    overflow: hidden;
+}
+
+#formBox.active{
+    left: 53.3%;
+}
+
+.form{
+    position: absolute;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    transition: 0.5s;
+}
+
+#formBox .signinForm{
+    transition-delay: 0.25%;
+}
+
+#formBox.active .signinForm{
+    position: absolute;
+    left: -100%;
+    transition-delay: 0.25;
+}
+
+#formBox .signUpForm{
+    margin-left: 100%;
+}
+
+#formBox.active .signUpForm{
+    margin-left: 0%;
+}
+
+.loginBox form h3 ,title{
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+    font-weight: 500;
+}
+
+.loginBox input{
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 10px;
+    outline: none;
+    font-size: 16px;
+    border: 1px solid #333;
+}
+.form{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    padding: 50px;
+    margin-top: 5%;
+/* transition: 0.5s; */
+}
+.SignMethod .fab{
+font-size: 24px;
+background-color: rgb(238, 238, 238);
+width: 50px;
+padding: 5px 10px;
+height: 50px;
+color: #03a9f4;
+/* margin-right: 50px; */
+border-radius: 10px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+

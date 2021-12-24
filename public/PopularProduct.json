@@ -1,0 +1,65 @@
+[
+    {
+        "title": "Chain bucket bag",
+        "catagory": "hotTrend",
+        "img": "https://i.ibb.co/VV7BcPm/xht-1-jpg-pagespeed-ic-egi4b-L3t5c.webp",
+        "rate": "5.0",
+        "price": "59.0"
+    },
+    {
+        "title": "Jins Pant",
+        "catagory": "hotTrend",
+        "img": "https://i.ibb.co/CsD7TTJ/xbs-1-jpg-pagespeed-ic-m-J3-HA8np2n.webp",
+        "rate": "4.6",
+        "price": "50.0"
+    },
+    {
+        "title": "Bow wrap skirt",
+        "catagory": "hotTrend",
+        "img": "https://i.ibb.co/1nbh2rL/xf-1-jpg-pagespeed-ic-Q7t675-Gcer.webp",
+        "rate": "3.5",
+        "price": "45.0"
+    },
+    {
+        "title": "Pendant earrings",
+        "catagory": "bestSeller",
+        "img": "https://i.ibb.co/1MqLx5h/xht-2-jpg-pagespeed-ic-3-Yju-D2-AOub.webp",
+        "rate": "5.0",
+        "price": "69.0"
+    },
+    {
+        "title": "Zip-pockets pebbled tote-briefcase",
+        "catagory": "bestSeller",
+        "img": "https://i.ibb.co/gSqrfb4/xbs-2-jpg-pagespeed-ic-o-PC5e-RYONC.webp",
+        "rate": "4.0",
+        "price": "50.0"
+    },
+    {
+        "title": "Metallic earrings",
+        "catagory": "bestSeller",
+        "img": "https://i.ibb.co/F7CD0yj/xf-2-jpg-pagespeed-ic-LE7-FQXfxe-P.webp",
+        "rate": "4.8",
+        "price": "90.0"
+    },
+    {
+        "title": "Cotton T-Shirt",
+        "catagory": "feature",
+        "img": "https://i.ibb.co/vHVzFfq/xht-3-jpg-pagespeed-ic-fw-Ls-IXAi-Z.webp",
+        "rate": "5.0",
+        "price": "80.0"
+    },
+    {
+        "title": "Round leather bag",
+        "catagory": "feature",
+        "img": "https://i.ibb.co/yhRmWcv/xbs-3-jpg-pagespeed-ic-Ub-Er-REAs1.webp",
+        "rate": "4.0",
+        "price": "75.0"
+    },
+    {
+        "title": "Flap cross-body bag",
+        "catagory": "feature",
+        "img": "https://i.ibb.co/M22hC4V/xf-3-jpg-pagespeed-ic-lark-Qp-Ufvs.webp",
+        "rate": "4.0",
+        "price": "75.0"
+    }
+]

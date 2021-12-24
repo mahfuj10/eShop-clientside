@@ -1,0 +1,31 @@
+.header-text {
+  position: absolute;
+  padding-left: 50px;
+}
+.header-text h2 {
+  font-size: 55px;
+  font-style: oblique;
+}
+.header-text p {
+  width: 50%;
+}
+.header-text span {
+  font-size: 14px;
+}
+
+.left-banner article {
+  margin-bottom: 13px;
+  /* margin-left: 4px; */
+}
+.single-banner {
+  position: absolute;
+}
+.single-banner {
+  margin-left: 2%;
+}
+.single-banner h1 {
+  font-size: 24px;
+}
+.single-banner span {
+  font-size: 14px;
+}

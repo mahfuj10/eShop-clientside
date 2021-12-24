@@ -1,0 +1,27 @@
+
+
+.sci {
+	position: absolute;
+	bottom: 170px;
+	display: grid;
+	margin-left: 40px;
+	justify-content: center;
+	z-index: +888;
+	row-gap: 10px;
+}
+
+.sci span {
+	list-style: none;
+	margin: 0 10px;
+	transform: translateY(40px);
+	transition: 0.5s;
+	opacity: 0;
+	z-index: +888;
+}
+
+.jacketContainer:hover .sci span {
+	transform: translateY(0px);
+	opacity: 1;
+	z-index: +888;
+
+}

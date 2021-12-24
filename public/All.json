@@ -1,0 +1,64 @@
+[
+
+    {
+        "image":"https://i.ibb.co/k8nDXPj/product-8.webp",
+        "name":"Button tweed blazer",
+        "rate":"4.6",
+        "price":"71",
+        "category":"men",
+        "condition":"new"
+    },
+    {
+        "image":"https://i.ibb.co/XXqZWct/product-7.webp",
+        "name":"flowy strped shirt",
+        "rate":"5",
+        "price":"67",
+        "category":"woman"
+    },
+    {
+        "image":"https://i.ibb.co/84RCp1g/product-6.webp",
+        "name":"Cotton T-Shirt",
+        "rate":"5",
+        "price":"39",
+        "category":"woman",
+        "condition":"out of stock"
+    },
+    {
+        "image":"https://i.ibb.co/r633hCS/product-5.webp",
+        "name":"Slim striped pocket shirt",
+        "rate":"4.9",
+        "price":"42",
+        "category":"man"
+    },
+    {
+        "image":"https://i.ibb.co/JF9hYsz/product-4.webp",
+        "name":"flowy strped shirt",
+        "rate":"5",
+        "price":"34",
+        "category":"man"
+    },
+    {
+        "image":"https://i.ibb.co/kqgVnk4/product-3.webp",
+        "name":"Fit micro corduroy shirt",
+        "rate":"3.7",
+        "price":"78",
+        "category":"woman",
+        "condition":"sale"
+
+    },
+    {
+        "image":"https://i.ibb.co/XtJz8W4/product-2.webp",
+        "name":"Tropical Kimono",
+        "rate":"5",
+        "price":"29",
+        "category":"man"
+    },
+    {
+        "image":"https://i.ibb.co/b5kgwWD/product-1.webp",
+        "name":"Water resistant backpack",
+        "rate":"4.5",
+        "price":"64",
+        "category":"woman",
+        "condition":"sale"
+    }
+]

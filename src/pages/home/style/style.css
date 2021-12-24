@@ -1,0 +1,175 @@
+/* change copy color */
+::-moz-selection { /* Code for Firefox */
+	background: #b4c9dd;
+	color: black;
+  }::selection {
+	background: #b4c9dd;
+	color: black;
+  }
+  ::-webkit-scrollbar {
+	width: 2px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+	background: #b4c9dd; 
+	border-radius: 10px;
+  }
+  .product-title{
+	  font-size: 16px;
+  }
+  .product-title:hover{
+text-decoration: underline;
+color: #2D638A !important;
+transition: 0.2s;
+}
+body,html{
+	overflow-x: hidden;
+	scroll-behavior: smooth;
+}
+
+.button-container{
+	position: absolute;
+	bottom: 70%;
+	display: grid;
+	margin-left: 40px;
+	row-gap: 10px;
+
+}
+.quick-view-button{
+	position: absolute;
+	bottom: 60%;
+	display: grid;
+	margin-left: 40px;
+	row-gap: 10px;
+
+}
+.view-btn{
+    list-style: none;
+	margin: 0 10px;
+	transform: translateY(40px);
+	transition: 0.5s;
+	opacity: 0;
+    background-color: #FFD8D7;
+    padding: 4px 15px;
+    border-radius: 25px;
+}
+.quick-view{
+    list-style: none;
+	margin: 0 10px;
+	transform: translateY(40px);
+	transition: 0.5s;
+	opacity: 0;
+    border: 1px dotted black;
+    background-color: #fff;
+    padding: 4px 15px;
+    border-radius: 25px;
+}
+
+.product:hover .view-btn{
+	transform: translateY(0px);
+	opacity: 1;
+}
+.homeAppliancesItem:hover .quick-view{
+	transform: translateY(0px);
+	opacity: 1;
+}
+
+.active{
+    color: black !important;
+}
+
+/* home applianmces wishdom button */
+.wishdom-btn{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F5F5F5;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+
+    list-style: none;
+	margin: 0 10px;
+	transform: translateY(40px);
+	transition: 0.5s;
+	opacity: 0;
+
+    }
+
+    .homeAppliancesItem:hover .wishdom-btn{
+transform: translateY(0px);
+	opacity: 1;
+    }
+/* button */
+.cart-button{
+	display: flex;
+	align-items: center;
+	font-weight: 500;
+	background-color: #fff;
+	border: 1px solid black;
+	border-radius: 25px;
+}
+
+	/* single detilas of product */
+/*-----------------------
+   review form
+------------------ */
+.review-form {
+background-color: #F6F9FC;
+padding: 50px;
+}
+.review-form input,select,textarea{
+	margin-bottom: 20px;
+	width: 100% !important;
+	padding: 8px;
+}
+.review-form label{
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+.review-form::placeholder{
+	font-weight: 500;
+}
+.slick-next,.slick-prev{
+	background-color: #232F3E !important;
+height: 40px !important;
+width: 40px !important;
+padding: 5px !important;
+border-radius: 50% !important;
+}
+/* -------------------
+		footer
+---------------- */
+footer{
+	background-color: #131921;
+	padding-top: 70px;
+	padding-bottom: 30px;
+}
+footer h6{
+	font-size: 19px;
+	color: white;
+}
+footer a{
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: 500;
+	display: block;
+	margin-bottom: 10px;
+	color: #2D638A;
+}
+footer a:hover{
+	text-decoration: underline;
+	color: white;
+	transition: 0.2s;
+};
+.navbar-items{
+	color: red !important;
+}
+
+@media (max-width: 801px) {
+	.navbar-items{
+		color: red !important;
+		display: none !important;
+	}
+  }
